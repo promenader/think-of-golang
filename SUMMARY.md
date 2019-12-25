@@ -9,8 +9,4 @@
     * [并发](part1/chapter5.md)
     * [单元测试](part1/chapter6.md)
 * [Go Web特性](part2/README.md)
-    * [We love feedback](part2/feedback_please.md)
-    * [Better tools for authors](part2/better_tools.md)
 * [Go 高级特性](part3/README.md)
-    * [We love feedback](part2/feedback_please.md)
-    * [Better tools for authors](part2/better_tools.md)
